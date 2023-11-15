@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['set_43',['set',['../da/d9e/CMakeLists_8txt.html#a9267ccdfbbaf6ba4f55c35f3a1f7fd90',1,'CMakeLists.txt']]],
-  ['setvalue_44',['setValue',['../dc/d4f/classPoint.html#a52c641888e5296026f2ba96f2d6c3d07',1,'Point']]],
-  ['size_45',['size',['../d3/d3f/classMatrix.html#aa05368649c3fac138dbc09f6f40329e6',1,'Matrix::size()'],['../d8/d20/classMatrix_3_01T_00_01DEFAULT__VAL_00_011_01_4.html#a5fcdc374ede764af834be6fdc3d4aee3',1,'Matrix&lt; T, DEFAULT_VAL, 1 &gt;::size()']]]
+  ['test_46',['TEST',['../df/d0a/main_8cpp.html#ab946e2e7f7679350627acfded8e2658b',1,'main.cpp']]],
+  ['type_47',['Type',['../d3/d3f/classMatrix.html#ac4ddb3a769044ffcabccad9e03f4293a',1,'Matrix::Type()'],['../d8/d20/classMatrix_3_01T_00_01DEFAULT__VAL_00_011_01_4.html#aa07b1c52d7780ebaaa253e7f7deb7370',1,'Matrix&lt; T, DEFAULT_VAL, 1 &gt;::Type()']]]
 ];

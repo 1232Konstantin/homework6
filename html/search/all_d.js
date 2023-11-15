@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['value_48',['value',['../dc/d4f/classPoint.html#acba20bef19ad23eca4d229693bf93125',1,'Point']]]
+  ['_7einterface_49',['~Interface',['../d7/d03/structInterface.html#adb601e7215dae2fde77654a39fad026d',1,'Interface']]]
 ];
