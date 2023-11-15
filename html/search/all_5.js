@@ -1,9 +1,4 @@
 var searchData=
 [
-  ['index_12',['index',['../dc/d4f/classPoint.html#a2784a73a1f18b4b2015a56fa6d87b1d7',1,'Point']]],
-  ['indexes_13',['indexes',['../d7/d03/structInterface.html#ad7640acd26fd85b150dbadfb74b1da42',1,'Interface']]],
-  ['interface_14',['Interface',['../d7/d03/structInterface.html',1,'']]],
-  ['isvalid_15',['isValid',['../d2/da0/classextended__list__operator.html#ad2fec10187ea17c221e32f099b9397be',1,'extended_list_operator::isValid()'],['../dd/d2b/structMyIterator.html#afdd27dc973ab916a427cddb8a9bc7487',1,'MyIterator::isValid()']]],
-  ['iterator_16',['Iterator',['../d3/d3f/classMatrix.html#a1d3e1cfd8ae0fbbee19fc39db90cb62f',1,'Matrix']]],
-  ['iterator_17',['iterator',['../d8/d20/classMatrix_3_01T_00_01DEFAULT__VAL_00_011_01_4.html#ade5f70443c1c33251ce55ad601ee579d',1,'Matrix&lt; T, DEFAULT_VAL, 1 &gt;']]]
+  ['homework6_3ca_20href_3d_22https_3a_2f_2fgithub_2ecom_2f1232konstantin_2fhomework6_2ffiles_2f13369435_2f06_5fhomework_2d12995_2d006db5_2epdf_22_3e06_5fhomework_2d12995_2d006db5_2epdf_3c_2fa_3e_12',['homework6&lt;a href=&quot;https://github.com/1232Konstantin/homework6/files/13369435/06_homework-12995-006db5.pdf&quot;&gt;06_homework-12995-006db5.pdf&lt;/a&gt;',['../d0/d30/md_README.html',1,'']]]
 ];

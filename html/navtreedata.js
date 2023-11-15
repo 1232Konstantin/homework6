@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "homework6", "index.html", [
+    [ "homework6<a href=\"https://github.com/1232Konstantin/homework6/files/13369435/06_homework-12995-006db5.pdf\">06_homework-12995-006db5.pdf</a>", "d0/d30/md_README.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
